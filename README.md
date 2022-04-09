@@ -1,4 +1,4 @@
-# GeneracionContrase-asPHP
+# Generacion de Contraseñas aleatorias con PHP
 
 Programa desarrollado para generar una contraseña aletaramiente con php
 
